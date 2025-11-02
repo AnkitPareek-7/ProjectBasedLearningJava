@@ -9,7 +9,7 @@ import org.springframework.orm.hibernate5.*;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @Configuration
-@ComponentScan(basePackages = "mini_project")
+@ComponentScan(basePackages = "MiniProject")
 @EnableTransactionManagement
 public class AppConfig {
 
